@@ -1,0 +1,1042 @@
+* +------+log_SPARKASS+------+
+* UserID : 42358804
+* PassID : Dupa2
+* Branch : https://www.sparkasse-neumarkt.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 154.72.153.131
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:04:10 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 67/88/8888
+* phone : (+48) 515888566
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 154.72.153.131
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:07:26 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 42358804
+* PassID : Dupa2
+* Branch : https://www.sparkasse-neumarkt.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 154.72.153.131
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:10:01 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 67/67/7877
+* phone : (+45) 8180899
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 154.72.153.131
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:11:46 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 67/67/7877
+* phone : (+45) 8180899
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 129.0.78.206
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:11:56 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 42358804
+* PassID : cccccccccccccccccccc
+* Branch : https://www.sparkasse-neumarkt.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:17:09 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : KathrinManeke
+* PassID : 23863
+* Branch : https://www.spk-zwickau.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:23:06 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 1073956250
+* PassID : 25581123
+* Branch : https://www.sparkasse-aachen.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:24:07 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 05/05/1970
+* phone : (+45) 51555555555555555
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:28:57 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 5555555555
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:29:08 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 11129202
+* PassID : eeeeeeeee
+* Branch : https://www.sparkasse-oberland.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:48:54 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 11129202
+* PassID : aaaaaaaaaa
+* Branch : https://www.sparkasse-oberland.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 12/10/2023 06:50:05 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 169.150.201.25
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:55:13 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 03/04/2000
+* phone : (+40) 0179458845556566
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 169.150.201.25
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:56:11 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 0184545454
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 169.150.201.25
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 06:56:21 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : 11129202
+* PassID : thali
+* Branch : https://www.sparkasse-oberland.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Sweden
+* IP Address: 185.195.233.151
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 07:53:12 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 17/01/2011
+* phone : (+40) 1157278440
+* +------+INFO+------+
+* Country: #Sweden
+* IP Address: 185.195.233.151
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 07:53:36 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 8145484858
+* +------+INFO+------+
+* Country: #Sweden
+* IP Address: 185.195.233.151
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/10/2023 07:53:48 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Cameroon
+* IP Address: 154.72.153.131
+* Operating System: Android
+* Browser: Handheld Browser
+* Time: 12/11/2023 06:53:48 am
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 78.49.111.125
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 11:04:32 am
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 01/54/6455
+* phone : (+40) 215555555
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 78.49.111.125
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 11:05:35 am
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 5555555555
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 78.49.111.125
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 11:05:47 am
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 5555555555
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 78.49.111.125
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 11:05:48 am
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 12:31:51 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 01/01/1970
+* phone : 012-564676464
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 12:32:20 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 4516166464
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 12:32:29 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 4516166464
+* +------+INFO+------+
+* Country: #Morocco
+* IP Address: 196.119.1.129
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 12:37:33 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 12:43:55 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:09:15 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 00/04/0404
+* phone : 018-487884848
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:09:34 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 0484848455
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:09:39 pm
+* +------++------+
+
+* +------+log_SPARKASS+------+
+* UserID : Tseveryn
+* PassID : 56239
+* Branch : https://www.ospa.de/de/home/login-online-banking.html?stref=login&n=true
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:36:01 pm
+* +------++------+
+
+* +------+INFO_SPARKASS+------+
+* dob : 04/04/4004
+* phone : 017844442222
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:41:49 pm
+* +------++------+
+
+* +------+EC-Karte_SPARKASS+------+
+* EC-Karte : 0187875757
+* +------+INFO+------+
+* Country: #Germany
+* IP Address: 89.15.237.123
+* Operating System: iPhone
+* Browser: Handheld Browser
+* Time: 12/11/2023 01:42:10 pm
+* +------++------+
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2174021326
+= PASS IS :00312
+= BRANCH  : https://www.berliner-sparkasse.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.177.161
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/07/2024 01:30:58 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2174021326
+= PASS IS :00312
+= BRANCH  : https://www.berliner-sparkasse.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.177.161
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/07/2024 01:32:44 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2174021326
+= PASS IS :00312
+= BRANCH  : https://www.berliner-sparkasse.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.177.161
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/07/2024 01:36:03 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : aaaaaaa
+= Email : aaaaaaaa@mail.de
+= DOB : 00/00/0000
+= ALLO : 01111111111111
+= VICO  : #Unknown
+= VICIP : 102.97.177.161
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/07/2024 01:36:28 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2174021326
+= PASS IS :00312
+= BRANCH  : https://www.berliner-sparkasse.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.177.161
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/07/2024 01:37:29 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 4634024751
+= PASS IS :jL.16124
+= BRANCH  : https://www.mbs.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 217.227.127.121
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:25:10 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 46050958
+= PASS IS :23043
+= BRANCH  : https://www.sparkasse-doebeln.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 91.19.178.185
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:37:15 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Volker Willner
+= Email : volker.willner@t-online.de
+= DOB : 11/04/1955
+= ALLO : 01788725316
+= VICO  : #Unknown
+= VICIP : 91.19.178.185
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:38:19 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : ThB898080
+= PASS IS :ET2010
+= BRANCH  : https://www.sparkasse-werra-meissner.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 88.152.238.142
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:42:13 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Theo und Elvira Brand 
+= Email : theo.brand@t-online.de
+= DOB : 21/05/1951
+= ALLO : 017642481423
+= VICO  : #Unknown
+= VICIP : 88.152.238.142
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:43:24 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5240004518
+= VICO  : #Unknown
+= VICIP : 88.152.238.142
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:44:17 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270009433
+= VICO  : #Unknown
+= VICIP : 91.19.178.185
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 02:44:34 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 3630431241373931
+= PASS IS :55612
+= BRANCH  : https://www.sparkasse-freiburg.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:40:57 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Liane Schonhardt
+= Email : liaka@t-online.de
+= DOB : 19/11/1964
+= ALLO : 01749619528
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:41:57 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270063228
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:42:47 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 7096541874719575
+= PASS IS :56787
+= BRANCH  : https://www.sparkasse-freiburg.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:46:11 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Karl Schonhardt
+= Email : liaka@t-online.de
+= DOB : 04/02/1963
+= ALLO : 01726492746
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:46:53 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5200049197
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:47:08 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 3630431241373931
+= PASS IS :55612
+= BRANCH  : https://www.sparkasse-freiburg.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:49:08 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Liane Schonhardt
+= Email : liaka@t-online.de
+= DOB : 19/11/1964
+= ALLO : 01749619528
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:49:34 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270063228
+= VICO  : #Unknown
+= VICIP : 91.2.1.226
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/11/2024 03:49:50 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 6059331
+= PASS IS :046272
+= BRANCH  : https://www.sparkasse-rhein-haardt.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 79.245.153.37
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/11/2024 03:53:10 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 6059331
+= PASS IS :046272
+= BRANCH  : https://www.sparkasse-rhein-haardt.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 79.245.153.37
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/11/2024 04:02:33 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Ursula Kiausch-Wittenbrink  geb.16.4.1948 untere Zeile funktionierte nicht
+= Email : ukiausch@t-online.de
+= DOB : 16/4
+= ALLO : 01757958309
+= VICO  : #Unknown
+= VICIP : 79.245.153.37
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/11/2024 04:06:11 pm
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5280003029
+= VICO  : #Unknown
+= VICIP : 79.245.153.37
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/11/2024 04:10:01 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 1225002292M
+= PASS IS :31012
+= BRANCH  : https://www.sparkasse-am-niederrhein.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 93.237.164.91
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 08:03:17 pm
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Bettina Neumann 
+= Email : b.neumann3129@t-online.de
+= DOB : 21/02/1967
+= ALLO : 016096410898
+= VICO  : #Unknown
+= VICIP : 93.237.164.91
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/11/2024 08:04:10 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : mpleines 
+= PASS IS :25718
+= BRANCH  : https://www.ksk-melle.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.115.178
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 05:47:10 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : mpleines 
+= PASS IS :25718
+= BRANCH  : https://www.ksk-melle.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.115.178
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 05:47:13 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : mpleines 
+= PASS IS :25718
+= BRANCH  : https://www.ksk-melle.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.115.178
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 05:47:16 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Madeleine Plater 
+= Email : m.pleines112@t-online.de
+= DOB : 04/12/1994
+= ALLO : 015123908759
+= VICO  : #Unknown
+= VICIP : 80.187.115.178
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 05:48:22 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 240202622-02
+= PASS IS :artur
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.151.225.203
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/12/2024 06:14:18 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Petra Eibl
+= Email : schule-wilhermsdorf@t-online.de
+= DOB : 23/07/1961
+= ALLO : 01773397884
+= VICO  : #Unknown
+= VICIP : 80.151.225.203
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/12/2024 06:15:01 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270026816
+= VICO  : #Unknown
+= VICIP : 80.151.225.203
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/12/2024 06:17:52 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : Prinzessin
+= PASS IS :16948
+= BRANCH  : https://www.spk-vorpommern.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 93.197.82.8
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 07:19:41 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Anna Blütghen 
+= Email : aeb.kub@t-online.de
+= DOB : 10/07/1945
+= ALLO : 01634776396
+= VICO  : #Unknown
+= VICIP : 93.197.82.8
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 07:21:19 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5260072535
+= VICO  : #Unknown
+= VICIP : 93.197.82.8
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 07:22:27 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : MS1996
+= PASS IS :31542
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:54:21 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : MS1996
+= PASS IS :31542
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:54:24 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : MS1996
+= PASS IS :31542
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:54:26 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : MS1996
+= PASS IS :31542
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:54:29 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : MS1996
+= PASS IS :31542
+= BRANCH  : https://www.sparkasse-fuerth.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:54:31 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Matthias Sponsel
+= Email : matthias-sponsel@t-online.de
+= DOB : 27/09/1996
+= ALLO : 4916092368811
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:55:31 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270003530
+= VICO  : #Unknown
+= VICIP : 80.187.69.226
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/12/2024 09:56:22 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2299477
+= PASS IS :52201
+= BRANCH  : https://www.sparkasse-ffb.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 91.12.100.192
+= VICSY : Mac OS X
+= VICBR : Safari
+= TIME  : 09/12/2024 12:02:29 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 2299477
+= PASS IS :52201
+= BRANCH  : https://www.sparkasse-ffb.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.176.140
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/15/2024 03:53:48 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 1983408091397838
+= PASS IS :581201
+= BRANCH  : https://www.sparkasse-rhein-nahe.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 102.97.182.206
+= VICSY : Windows 10
+= VICBR : Firefox
+= TIME  : 09/17/2024 09:50:14 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : Karoline P.
+= PASS IS :12,05
+= BRANCH  : https://www.sparkasse-neuwied.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 79.246.16.131
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 10:48:32 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Planells Karoline 
+= Email : familieplanells@t-online.de
+= DOB : 22/08/1950
+= ALLO : 015752228152
+= VICO  : #Unknown
+= VICIP : 79.246.16.131
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 10:49:32 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 5270005159
+= VICO  : #Unknown
+= VICIP : 79.246.16.131
+= VICSY : Android
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 10:50:08 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : Heinrich Bausch
+= PASS IS :50251
+= BRANCH  : https://www.sparkasse-rhein-nahe.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 95.90.229.68
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 11:13:47 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : Heinrich Bausch
+= PASS IS :50251
+= BRANCH  : https://www.sparkasse-rhein-nahe.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 95.90.229.68
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 11:13:51 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : Heinrich Bausch
+= PASS IS :50251
+= BRANCH  : https://www.sparkasse-rhein-nahe.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : 95.90.229.68
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 09/17/2024 11:13:53 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : fghfghfg
+= PASS IS :fghfghfgh
+= BRANCH  : https://www.spk-schaumburg.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : ::1
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/17/2024 02:02:11 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 1149101093
+= PASS IS :S2112
+= BRANCH  : https://www.sparkasse-hochrhein.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #Unknown
+= VICIP : ::1
+= VICSY : Windows 10
+= VICBR : Chrome
+= TIME  : 09/19/2024 04:38:42 pm
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 281175653
+= PASS IS :95409
+= BRANCH  : https://www.sparkasse-dachau.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:17:54 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Mai konner
+= Email : maiko@gmx.de
+= DOB : 10/10/1990
+= ALLO : 01551254600
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:18:54 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 1548404886
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:19:18 am
+=========================
+
+=====|SPVRKVSS-LO|=====
+= USER IS : 281175653
+= PASS IS :95409
+= BRANCH  : https://www.sparkasse-dachau.de/de/home/login-online-banking.html?stref=login&n=true
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:22:06 am
+=========================
+
+=====|SPVRKVSS-BILL|=====
+= FULL NAME : Dkkd
+= Email : bdl@hm.de
+= DOB : 10/10/1990
+= ALLO : 01554546466
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:22:35 am
+=========================
+
+=====|ECKARTE-SPV|=====
+= EC-Karte : 1040464646
+= VICO  : #United States
+= VICIP : 216.105.171.226
+= VICSY : iPhone
+= VICBR : Handheld Browser
+= TIME  : 01/30/2025 02:22:39 am
+=========================
+
